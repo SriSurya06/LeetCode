@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
+| [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
