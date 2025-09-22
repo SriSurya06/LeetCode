@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/SriSurya06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SriSurya06/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SriSurya06/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/SriSurya06/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
