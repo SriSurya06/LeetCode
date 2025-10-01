@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SriSurya06/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2383-add-two-integers](https://github.com/SriSurya06/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/SriSurya06/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
