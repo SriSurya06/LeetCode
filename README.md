@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriSurya06/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/SriSurya06/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SriSurya06/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
