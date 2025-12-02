@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/SriSurya06/LeetCode/tree/master/1603-design-parking-system) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SriSurya06/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1603-design-parking-system](https://github.com/SriSurya06/LeetCode/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/SriSurya06/LeetCode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/SriSurya06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
