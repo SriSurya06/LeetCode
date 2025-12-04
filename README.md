@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SriSurya06/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/SriSurya06/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SriSurya06/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2383-add-two-integers](https://github.com/SriSurya06/LeetCode/tree/master/2383-add-two-integers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/SriSurya06/LeetCode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/SriSurya06/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/SriSurya06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SriSurya06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
