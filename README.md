@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SriSurya06/LeetCode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SriSurya06/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SriSurya06/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/SriSurya06/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SriSurya06/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
