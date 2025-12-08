@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/SriSurya06/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SriSurya06/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1925-count-square-sum-triples](https://github.com/SriSurya06/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/SriSurya06/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SriSurya06/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/SriSurya06/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriSurya06/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/SriSurya06/LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
