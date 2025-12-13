@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/SriSurya06/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/SriSurya06/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SriSurya06/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/SriSurya06/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/SriSurya06/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/SriSurya06/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SriSurya06/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
