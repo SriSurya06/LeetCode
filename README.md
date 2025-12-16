@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SriSurya06/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/SriSurya06/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1837-daily-leads-and-partners](https://github.com/SriSurya06/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SriSurya06/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
