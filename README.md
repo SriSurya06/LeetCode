@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SriSurya06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/SriSurya06/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SriSurya06/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SriSurya06/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SriSurya06/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SriSurya06/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting Sort
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
