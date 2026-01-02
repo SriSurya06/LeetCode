@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SriSurya06/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/SriSurya06/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/SriSurya06/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
