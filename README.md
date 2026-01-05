@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SriSurya06/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3336-water-bottles-ii](https://github.com/SriSurya06/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriSurya06/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/SriSurya06/LeetCode/tree/master/3830-find-closest-person) |
 ## Brainteaser
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SriSurya06/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [4008-restore-finishing-order](https://github.com/SriSurya06/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Greedy
