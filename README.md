@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SriSurya06/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SriSurya06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SriSurya06/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/SriSurya06/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SriSurya06/LeetCode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SriSurya06/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/SriSurya06/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1791-richest-customer-wealth](https://github.com/SriSurya06/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SriSurya06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/SriSurya06/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SriSurya06/LeetCode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
