@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/SriSurya06/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SriSurya06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/SriSurya06/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SriSurya06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
