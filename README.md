@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/SriSurya06/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/SriSurya06/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/SriSurya06/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
+| [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1791-richest-customer-wealth](https://github.com/SriSurya06/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 ## Number Theory
 |  |
 | ------- |
