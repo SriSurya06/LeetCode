@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SriSurya06/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/SriSurya06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SriSurya06/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SriSurya06/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SriSurya06/LeetCode/tree/master/0070-climbing-stairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SriSurya06/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/SriSurya06/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SriSurya06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SriSurya06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SriSurya06/LeetCode/tree/master/0055-jump-game) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SriSurya06/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SriSurya06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/SriSurya06/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
