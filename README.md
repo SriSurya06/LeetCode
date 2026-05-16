@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SriSurya06/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SriSurya06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SriSurya06/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SriSurya06/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SriSurya06/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SriSurya06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SriSurya06/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SriSurya06/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SriSurya06/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/SriSurya06/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SriSurya06/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SriSurya06/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriSurya06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
