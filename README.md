@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/SriSurya06/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/SriSurya06/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SriSurya06/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SriSurya06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SriSurya06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SriSurya06/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SriSurya06/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/SriSurya06/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -325,5 +328,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SriSurya06/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SriSurya06/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SriSurya06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
