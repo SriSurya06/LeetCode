@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SriSurya06/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SriSurya06/LeetCode/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/SriSurya06/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
