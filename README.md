@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/SriSurya06/LeetCode/tree/master/1175-prime-arrangements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SriSurya06/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1641-count-sorted-vowel-strings](https://github.com/SriSurya06/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/SriSurya06/LeetCode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/SriSurya06/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SriSurya06/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SriSurya06/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriSurya06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SriSurya06/LeetCode/tree/master/0392-is-subsequence) |
+| [1641-count-sorted-vowel-strings](https://github.com/SriSurya06/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SriSurya06/LeetCode/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/SriSurya06/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
