@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SriSurya06/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SriSurya06/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SriSurya06/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SriSurya06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SriSurya06/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/SriSurya06/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/SriSurya06/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SriSurya06/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SriSurya06/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SriSurya06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
