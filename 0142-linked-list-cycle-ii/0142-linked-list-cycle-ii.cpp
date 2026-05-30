@@ -15,12 +15,12 @@ public:
             tor=tor->next;
             har=har->next->next;
             if(har==tor){
-                ListNode* temp=head;
-                while(temp!=tor){
-                    temp=temp->next;
+                tor=head;
+                while(har!=tor){
+                    har=har->next;
                     tor=tor->next;
                 }
-            return temp;      
+            return tor;      
             } 
             }
         return NULL;
