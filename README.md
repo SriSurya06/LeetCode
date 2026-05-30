@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SriSurya06/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
@@ -409,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
