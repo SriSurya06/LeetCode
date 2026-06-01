@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/SriSurya06/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/SriSurya06/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SriSurya06/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SriSurya06/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SriSurya06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SriSurya06/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SriSurya06/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SriSurya06/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SriSurya06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/SriSurya06/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
