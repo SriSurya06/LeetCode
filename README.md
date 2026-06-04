@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/SriSurya06/LeetCode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriSurya06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/SriSurya06/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SriSurya06/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/SriSurya06/LeetCode/tree/master/0846-hand-of-straights) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriSurya06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2502-sort-the-people](https://github.com/SriSurya06/LeetCode/tree/master/2502-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/SriSurya06/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SriSurya06/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SriSurya06/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/SriSurya06/LeetCode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriSurya06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
