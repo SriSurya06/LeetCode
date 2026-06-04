@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriSurya06/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriSurya06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/SriSurya06/LeetCode/tree/master/3830-find-closest-person) |
 ## Brainteaser
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SriSurya06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SriSurya06/LeetCode/tree/master/0392-is-subsequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/SriSurya06/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriSurya06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/SriSurya06/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriSurya06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
