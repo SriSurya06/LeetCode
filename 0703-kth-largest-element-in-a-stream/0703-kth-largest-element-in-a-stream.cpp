@@ -6,6 +6,7 @@ public:
         this->k=k;
         for(auto j:nums){
             add(j);
+            if(pq.size()>k) pq.pop();
         }
         
     }
