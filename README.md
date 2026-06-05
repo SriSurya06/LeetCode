@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SriSurya06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SriSurya06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriSurya06/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/SriSurya06/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriSurya06/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SriSurya06/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -485,9 +487,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriSurya06/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SriSurya06/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SriSurya06/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SriSurya06/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
