@@ -7,13 +7,13 @@ public:
         for(auto j:nums){
             add(j);
             if(pq.size()>k) pq.pop();
-        }
+        } 
         
     }
     
     int add(int val) {
         pq.push(val);
-        while(pq.size()>k){
+        if(pq.size()>k){
             pq.pop();
         }
         return pq.top();
