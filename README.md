@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SriSurya06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SriSurya06/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SriSurya06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [4008-restore-finishing-order](https://github.com/SriSurya06/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Greedy
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SriSurya06/LeetCode/tree/master/0846-hand-of-straights) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SriSurya06/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3689-maximum-total-subarray-value-i](https://github.com/SriSurya06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
