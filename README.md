@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SriSurya06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/SriSurya06/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4008-restore-finishing-order](https://github.com/SriSurya06/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SriSurya06/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/SriSurya06/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/SriSurya06/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
