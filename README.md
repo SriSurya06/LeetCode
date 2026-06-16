@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SriSurya06/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/SriSurya06/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/SriSurya06/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SriSurya06/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SriSurya06/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SriSurya06/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/SriSurya06/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/SriSurya06/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/SriSurya06/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/SriSurya06/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
