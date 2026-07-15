@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/SriSurya06/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/SriSurya06/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SriSurya06/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SriSurya06/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SriSurya06/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SriSurya06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SriSurya06/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/SriSurya06/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SriSurya06/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
