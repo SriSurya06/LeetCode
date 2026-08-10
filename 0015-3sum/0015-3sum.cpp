@@ -20,6 +20,6 @@ public:
                 else right--;
             }
         }
-        return res;
+        return res; 
     }
 };
