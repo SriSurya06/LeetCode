@@ -674,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SriSurya06/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SriSurya06/LeetCode/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SriSurya06/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
