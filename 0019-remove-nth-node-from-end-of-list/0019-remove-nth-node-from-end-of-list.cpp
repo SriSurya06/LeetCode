@@ -30,5 +30,6 @@ public:
         if(n==c) head=head->next;
         else slow->next=slow->next->next;
         return head;
+        
     }
 };
