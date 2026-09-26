@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SriSurya06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/SriSurya06/LeetCode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/SriSurya06/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/SriSurya06/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/SriSurya06/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SriSurya06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SriSurya06/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/SriSurya06/LeetCode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/SriSurya06/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SriSurya06/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/SriSurya06/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SriSurya06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SriSurya06/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SriSurya06/LeetCode/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/SriSurya06/LeetCode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/SriSurya06/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/SriSurya06/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SriSurya06/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/SriSurya06/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SriSurya06/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SriSurya06/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/SriSurya06/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/SriSurya06/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SriSurya06/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -767,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SriSurya06/LeetCode/tree/master/0912-sort-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/SriSurya06/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
