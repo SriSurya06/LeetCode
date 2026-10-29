@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SriSurya06/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/SriSurya06/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SriSurya06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SriSurya06/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/SriSurya06/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SriSurya06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/SriSurya06/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/SriSurya06/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/SriSurya06/LeetCode/tree/master/1861-rotating-the-box) |
 ## Number Theory
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SriSurya06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/SriSurya06/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SriSurya06/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SriSurya06/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/SriSurya06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SriSurya06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
